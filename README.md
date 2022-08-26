@@ -16,9 +16,9 @@ Technion EE 046746 - Computer Vision
     <a href="https://lihi.net.technion.ac.il/">Lihi Zelnik-Manor</a>
   </p>
 
-Jupyter Notebook tutorials for the Technion's EE 046746 Computer Vision course
+Jupyter Notebook tutorials for the Technion's ECE 046746 Computer Vision course
 
-Previous semesters: <a href="https://github.com/taldatech/ee046746-computer-vision/tree/spring20">Spring 2020</a>, <a href="https://github.com/taldatech/ee046746-computer-vision">Spring 2021</a>, <a href="https://github.com/hilamanor/ee046746-computer-vision/tree/winter22">Winter 2021-2022</a>
+Previous semesters: <a href="https://github.com/taldatech/ee046746-computer-vision/tree/spring20">Spring 2020</a>, <a href="https://github.com/taldatech/ee046746-computer-vision">Spring 2021</a>, <a href="https://github.com/hilamanor/ee046746-computer-vision/tree/winter22">Winter 2021-2022</a>, <a href="https://github.com/hilamanor/ee046746-computer-vision/tree/spring22">Spring 2022</a>
 
 <h4 align="center">
     <a href="https://colab.research.google.com/github/HilaManor/ee046746-computer-vision"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
@@ -43,18 +43,6 @@ Previous semesters: <a href="https://github.com/taldatech/ee046746-computer-visi
 |`Setting Up The Working Environment.pdf`| Guide for installing Anaconda locally with Python 3 and PyTorch, integration with PyCharm and using GPU on Google Colab |
 |`ee046746_tut_01_intro_image_processing_python.ipynb\pdf`| Python basics: NumPy, Matplotlib, OpenCV basics: Reading and Writing Images, Basic Image Manipulations, Image Processing 101: Thresholding, Blurring |
 |`ee046746_tut_01_2_deep_learning_pytorch_basics.ipynb\pdf`| Deep Learning and PyTorch basics, MNIST, Fashion-MNIST, MULTI-layer Perceptron (MLP), Fully-Connected (FC) |
-|`ee046746_tut_02_probabilistic_discriminative_learning.ipynb\pdf`| Intro to Machine Learning, Discriminative vs Generative Models, Probabilistic Discriminative Models |
-|`ee046746_tut_03_04_convolutional_neural_networks.ipynb\pdf`| 2D Convolution (Cross-corelation), Convolution-based Classification, Convolutional Neural Networks (CNNs), Regularization and Overfitting, Dropout, Data Augmentation, SVHN dataset, Visualizing Filters, The history of CNNs, Applications of CNNs, The problems with CNNs (adversarial attacks, poor generalization, fairness-undesirable biases) |
-|`ee046746_tut_03_04_appndx_visualizing_cnn_filters.ipynb\pdf`| Appendix - How to visualize CNN filters and filter activations given image with PyTorch |
-|`ee046746_tut_05_deep_object_detection.ipynb\pdf`| Deep Object Detection, Localization, Sliding Windows, Intersection over Union (IoU), Average Precision (AP), Region-based Convolutional Neural Networks (R-CNN) Family, Fast/er R-CNN, Selective Search, Non-Maximum Supression (NMS), Region of Interest Pooling Layer (RoI), Region Proposal Network (RPN), Anchor boxes, Detectron2, You Only Look Once (YOLO) Family, YOLO V1-V4, Single Shot Multibox Detection (SSD) |
-|`ee046746_tut_06_deep_semantic_segmentation.ipynb\pdf`| Semantic Segmentation, IoU, AP, PASCAL Visual Object Classes, Common Objects in COntext (COCO), Fully Convolutional Network (FCN),Up-Convolution / Transposed-Convolution, Skip connections, Pyramid Scene Parsing Network (PSPNet), 1x1 convolution, Mask R-CNN, DeepLab, Atrous convolution, Conditional Random Field (CRF) |
-|`ee046746_tut_07_deep_object_tracking.ipynb\pdf` | Object Detection vs Object Tracking, Detection Failure Cases, Motion Model, Visual Appearance Model, Detection-Based Vs. Detection-Free, Offline Vs. Online Tracking, Generic Object Tracking Using Regression Networks (GOTURN), Multi-Domain Convolutional Neural Network Tracker (MDNet), Deep Simple Online and Realtime Tracking (Deep SORT) |
-|`ee046746_tut_08_edge_and_line_detection.ipynb\pdf` | Edge and Line detection, Canny, Hough transform, RANSAC, and SCNN |	
-|`ee046746_tut_09_homography_alignment_panoramas.ipynb\pdf` | Feature Matching, Parametric Transformations, RANSAC, Image Warping, Image Blending, Panorama Stitching, Kornia |
-|`ee046746_tut_10_geometry_review.ipynb\pdf`|Camera Models, Camera Matrix, Intrinsic and Extrinsic Parameters, Distortion Models, Camera Calibration, Homography Edge Cases, Epipolar Geometry, Essential/Fundamental Matrix, 8-point Algorithm|
-|`ee046746_tut_11_structure_from_motion.ipynb\pdf`|Pose Estimation, Triangulation, Reconstruction, Two-view Structure from Motion, Bundle Adjustment, Incremental Smoothing and Mapping|
-|`ee046746_tut_12_self_supervised_learning.ipynb\pdf`|Representation and Self-Supervised Learning, Autoencoders, Self-Supervised Learning, Corrupted Version Reconstruction & Visual Common Sense Tasks, Contrastive Methods, Simple Framework for Contrastive Learning of Visual Representations (SimCLR), Using the learned Representation for Downstream Tasks, Momentum Contrast (MoCo), Contrastive Predictive Coding (CPC)|
-|`ee046746_tut_13_generative_adversarial_networks_gan.ipynb\pdf`|Generative Adversarial Network (GAN), Explicit/Implicit density estimation, Nash Equilibrium, Mode Collapse, Vanishing/Diminishing Gradient, Conditional GANs, WGAN, EBGAN, BEGAN, Tips for Training GANs, Pix2Pix, CycleGAN|
 
 ## Running The Notebooks
 You can view the tutorials online or download and run locally.
