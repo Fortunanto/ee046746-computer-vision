@@ -52,6 +52,7 @@ Previous semesters: <a href="https://github.com/taldatech/ee046746-computer-visi
 |`ee046746_tut_08_edge_and_line_detection.ipynb\pdf`| Edge and Line detection, Canny, Hough transform, RANSAC, and SCNN |
 |`ee046746_tut_09_homography_alignment_panoramas.ipynb\pdf`| Feature Matching, Parametric Transformations, RANSAC, Image Warping, Image Blending, Panorama Stitching, Kornia |
 |`ee046746_tut_10_geometry_review.ipynb\pdf`| Camera Models, Camera Matrix, Intrinsic and Extrinsic Parameters, Distortion Models, Camera Calibration, Homography Edge Cases, Epipolar Geometry, Essential/Fundamental Matrix, 8-point Algorithm |
+|`ee046746_tut_11_attention_and_transformers.ipynb\pdf`| Processing Sequences, Attention, Self-Attention, Multiple Headed Attention, Transformers |
 
 ## Running The Notebooks
 You can view the tutorials online or download and run locally.
