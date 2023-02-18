@@ -55,6 +55,7 @@ Previous semesters: <a href="https://github.com/taldatech/ee046746-computer-visi
 |`ee046746_tut_11_structure_from_motion.ipynb\pdf`| Pose Estimation, Triangulation, Reconstruction, Two-view Structure from Motion, Bundle Adjustment, Incremental Smoothing and Mapping |
 |`ee046746_tut_12_attention_and_transformers.ipynb\pdf`| Processing Sequences, Attention, Self-Attention, Multiple Headed Attention, Transformers |
 |`ee046746_tut_13_self_supervised_learning.ipynb\pdf`| Representation and Self-Supervised Learning, Autoencoders, Self-Supervised Learning, Corrupted Version Reconstruction & Visual Common Sense Tasks, Contrastive Methods, Simple Framework for Contrastive Learning of Visual Representations (SimCLR), Using the learned Representation for Downstream Tasks, Momentum Contrast (MoCo), Contrastive Predictive Coding (CPC) |
+|`ee046746_tut_14_generative_adverserial_networks.ipynb\pdf`| Generative Adversarial Network (GAN), Explicit/Implicit density estimation, Nash Equilibrium, Mode Collapse, Vanishing/Diminishing Gradient, Conditional GANs, WGAN, EBGAN, BEGAN, Tips for Training GANs, Pix2Pix, CycleGAN|
 
 ## Running The Notebooks
 You can view the tutorials online or download and run locally.
