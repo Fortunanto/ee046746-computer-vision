@@ -12,6 +12,8 @@ Technion EE 046746 - Computer Vision
     <a href="https://github.com/HilaManor">Hila Manor</a> •
     <a href="https://eliasnehme.github.io/">Elias Nehme</a> •
     <a href="https://github.com/dahliau">Dalia Urbach</a> •
+    <a href="https://github.com/Fortunanto">Yiftach Edelstein</a> •
+    <a href="https://github.com/yuvalgos">Yuval Goshen</a> •
     <a href="https://webee.technion.ac.il/people/anat.levin/">Anat Levin</a> •
     <a href="https://lihi.net.technion.ac.il/">Lihi Zelnik-Manor</a>
   </p>
